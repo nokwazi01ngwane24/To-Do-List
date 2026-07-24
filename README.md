@@ -17,6 +17,7 @@ HOW TO USE
 4. Follow the prompts to interact with your To-Do List.
 
 EXAMPLE GAMEMPLAY
+
 --- To-Do List Menu ---
 1. View To-Do List
 2. Add Task
